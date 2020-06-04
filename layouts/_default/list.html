@@ -22,21 +22,12 @@
 				{{ if .Params.link }}
 				<a href="{{ .Params.link }}">{{.Title}}</a><span class="meta">{{ dateFormat "Jan 2, 2006" .Date }}{{ if .Draft }} <span class="draft-label">DRAFT</span> {{ end }}</span>
 				{{ else }}
-					<a href="{{ .RelPermalink }}">{{.Title}}</a> <span class="meta">{{ .Page.Lastmod.Format "Jan 2, 2006" }}</span>
+					<a href="{{ .RelPermalink }}">{{.Title}}</a> <span class="meta">Last updated {{ .Page.Lastmod.Format "Jan 2, 2006" }}</span>
 				{{ end }}
 			</li>
 			{{- end -}}
 			{{- end -}}
 		</ul>
-
-		{{ if $.GitInfo }}      <!-- To enable this, put "enableGitInfo = true" in your site config.toml -->
-        <p>
-            {{ printf "GitInfo debug:: %#v" $.GitInfo }}
-        </p>
-        <p>
-            LastMod Date using GitInfo: {{ .GitInfo.AuthorDate }}
-        </p>
-    {{ end }}
 
 	</div>
 
