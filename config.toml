@@ -1,6 +1,6 @@
 baseURL = "http://example.org/"
 languageCode = "en-us"
-title = "My personal blog"
+title = "#BlackLivesMatter Resources"
 theme = "ezhil"
 
 copyright = "© Copyright notice"
@@ -25,7 +25,7 @@ summaryLength = 20
     enableGitInfo = true
 
     # Blog subtitle which appears below blog title. Supports markdown.
-    subtitle = "Clean and minimal personal [blog theme for Hugo](https://github.com/vividvilla/ezhil)"
+    subtitle = "A curated collection of resources to educate and inform - [help welcome](https://github.com/straydogstrut/blmresources)"
 
     # Content types which are included in home page recent posts list.
     mainSections = ["posts"]
@@ -86,17 +86,22 @@ name = "Support"
 url = "/support"
 weight = 6
 
+[[menu.main]]
+name = "Acknowledgements"
+url = "/acknowledgements"
+weight = 7
+
 # Social media links which shows up on site header.
 # Uses feather icons for icons. You can [search icon names from here](https://feathericons.com/).
 [[params.social]]
 name = "Github"
 icon = "github"
-url = "https://github.com/vividvilla/ezhil"
+url = "https://github.com/straydogstrut/blmresources"
 
 [[params.social]]
 name = "Twitter"
 icon = "twitter"
-url = "https://twitter.com/gohugoio"
+url = "https://twitter.com/straydogstrut7"
 
 # Enable tags.
 [taxonomies]
