@@ -14,30 +14,18 @@
 
 		{{ with .Content }}{{ . }}{{ end }}
 
-<!--
-		<ul class="posts">
-			{{- range .Data.Pages -}}
-			{{- if (in (.Site.Params.excludedTypes | default (slice "page")) .Type) -}}
-			{{- else -}}
-			<li class="post">
-				{{ if .Params.link }}
-				<a href="{{ .Params.link }}">{{.Title}}</a>
-				{{ else }}
-					<a href="{{ .RelPermalink }}">{{.Title}}</a> <span class="meta">Last updated {{ .Page.Lastmod.Format "Jan 2, 2006" }}</span>
-				{{ end }}
-			</li>
-			{{- end -}}
-			{{- end -}}
-		</ul>
--->
+		{{ range where .Pages "Section" "activism" }}
 
-		{{ range .Sections}}
+			{{ range .Sections }}
 			<h2>{{ .Title }}</h2>
 			<ul>
 				{{ range .Data.Pages }}
-				<li><a href="{{ .Params.link }}">{{.Title}}</a></li>
+				<li>
+					<a href="{{ .Params.link }}">{{.Title}}</a>
+				</li>
 				{{ end }}
 			</ul>
+			{{ end }}
 		{{ end }}
 		<br>
 		<span class="meta">Last updated {{ .Page.Lastmod.Format "Jan 2, 2006" }}</span>

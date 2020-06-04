@@ -57,16 +57,16 @@ summaryLength = 20
 
 # Main menu which appears below site header.
 [[menu.main]]
-identifier = "home"
-name = "Home"
+identifier = "activism"
+name = "Activism"
 url = "/"
 weight = 1
 
-[[menu.main]]
-identifier = "activism"
-name = "Activism"
-url = "/activism"
-weight = 2
+# [[menu.main]]
+# identifier = "activism"
+# name = "Activism"
+# url = "/activism"
+# weight = 2
 
 [[menu.main]]
 identifier = "access"
