@@ -14,6 +14,7 @@
 
 		{{ with .Content }}{{ . }}{{ end }}
 
+<!--
 		<ul class="posts">
 			{{- range .Data.Pages -}}
 			{{- if (in (.Site.Params.excludedTypes | default (slice "page")) .Type) -}}
@@ -28,7 +29,17 @@
 			{{- end -}}
 			{{- end -}}
 		</ul>
-
+-->
+		{{ range .Sections}}
+			<h2>{{ .Title }}</h2>
+			<ul>
+				{{ range .Pages }}
+				<li><a href="{{ .Params.link }}">{{.Title}}</a></li>
+				{{ end }}
+			</ul>
+		{{ end }}
+		<br>
+		<span class="meta">Last updated {{ .Page.Lastmod.Format "Jan 2, 2006" }}</span>
 	</div>
 
 	{{ partial "footer.html" . }}
