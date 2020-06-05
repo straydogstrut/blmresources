@@ -20,7 +20,7 @@
 				{{- if (in (.Site.Params.excludedTypes | default (slice "page")) .Type) -}}
 				{{- else -}}
 				<li class="post">
-						<a href="{{ .RelPermalink }}">{{.Title}}</a> <span class="meta">Last updated {{ .Page.Lastmod.Format "Jan 2, 2006" }}</span>
+						<a href="{{ .RelPermalink }}">{{.Title}}</a>
 				</li>
 				{{- end -}}
 			{{- end -}}
