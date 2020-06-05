@@ -37,11 +37,14 @@
 				{{ range .Data.Pages }}
 				<li>
 					<a href="{{ .Params.link }}">{{.Title}}</a>
-					{{ with .Params.captions }}
-						[ <a href="{{ . }}">captions</a> ]
-					{{ end }}
-					{{ with .Params.transcript }}
-						[ <a href="{{ . }}">transcript</a> ]
+					{{ if eq .Section "access" }}
+						{{ with .Params.captions }}
+							[ <a href="{{ . }}">captions</a> ]
+						{{ end }}
+						{{ with .Params.transcript }}
+							[ <a href="{{ . }}">transcript</a> ]
+						{{ end }}
+						<span class="meta">{{ dateFormat "Jan 2, 2006" .Date }}</span>
 					{{ end }}
 				</li>
 				{{ end }}
