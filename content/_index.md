@@ -7,7 +7,7 @@ weight: 1
 
 This site exists to signpost resources to educate and inform on issues of systemic racism, white supremacy and racial inequality. While our social media feeds are ever-changing, these structures - and the people who suffer as a result - remain.
 
-To that end I will maintain this site as a reminder that our work is not done. As a white male, I feel it is vital to recognise my privilege, learn from the lived experience of others, and question my complicity in the status quo.
+To that end I will maintain this site as a reminder that our work is not done. As a white male, I feel it is vital to recognise my privilege, learn from the lived experience of others, and question my complicity in the status quo. It's not enough to be non-racist. I need to be actively anti-racist.
 
 ## How to Use this Site
 
