@@ -6,30 +6,11 @@
 	<div class="container wrapper list">
 		{{ partial "head.html" . }}
 
-		{{ if isset .Data "Term" }}
-			<h1>Entries tagged - "{{ .Data.Term }}"</h1>
-		{{ else }}
-			<h1 class="page-title visually-hidden">{{ .Title }}</h1>
-		{{ end }}
-
-		{{ with .Content }}{{ . }}{{ end }}
-
-		{{ range where .Pages "Section" "activism" }}
-
-			{{ range .Sections }}
-			<h2>{{ .Title }}</h2>
-			<ul>
-				{{ range .Data.Pages }}
-				<li>
-					<a href="{{ .Params.link }}">{{.Title}}</a>
-				</li>
-				{{ end }}
-			</ul>
+		{{ if .Site.Params.homepage_redirect }}
+			{{ with .GetPage "/activism" }}
+				{{ .Content }}
 			{{ end }}
 		{{ end }}
-		<br>
-		<span class="meta">Last updated {{ .Page.Lastmod.Format "Jan 2, 2006" }}</span>
-	</div>
 
 	{{ partial "footer.html" . }}
 </body>

@@ -14,23 +14,19 @@
 
 		{{ with .Content }}{{ . }}{{ end }}
 
-<!--
+
 		<ul class="posts">
 			{{- range .Data.Pages -}}
-			{{- if (in (.Site.Params.excludedTypes | default (slice "page")) .Type) -}}
-			{{- else -}}
-			<li class="post">
-				{{ if .Params.link }}
-				<a href="{{ .Params.link }}">{{.Title}}</a>
-				{{ else }}
-					<a href="{{ .RelPermalink }}">{{.Title}}</a> <span class="meta">Last updated {{ .Page.Lastmod.Format "Jan 2, 2006" }}</span>
-				{{ end }}
-			</li>
-			{{- end -}}
+				{{- if (in (.Site.Params.excludedTypes | default (slice "page")) .Type) -}}
+				{{- else -}}
+				<li class="post">
+						<a href="{{ .RelPermalink }}">{{.Title}}</a> <span class="meta">Last updated {{ .Page.Lastmod.Format "Jan 2, 2006" }}</span>
+				</li>
+				{{- end -}}
 			{{- end -}}
 		</ul>
--->
 
+<!--
 		{{ range .Sections}}
 			<h2>{{ .Title }}</h2>
 			<ul>
@@ -52,6 +48,7 @@
 		{{ end }}
 		<br>
 		<span class="meta">Last updated {{ .Page.Lastmod.Format "Jan 2, 2006" }}</span>
+	-->
 	</div>
 
 	{{ partial "footer.html" . }}
