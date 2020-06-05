@@ -8,10 +8,11 @@ disqus: false
 
 ## Articles
 
+* [What is Systemic Racism and Institutional Racism](https://theconversation.com/explainer-what-is-systemic-racism-and-institutional-racism-131152)
 * [America's Racial Contract is Killing Us](https://www.theatlantic.com/ideas/archive/2020/05/americas-racial-contract-showing/611389/)
 * [Save the Tears](https://tatianamac.com/posts/save-the-tears)
 * [White Guyde to the Galaxy](https://tatianamac.com/posts/white-guyde/)
-* [White Privilege - Unpacking the Invisible Knapsack](http://convention.myacpa.org/houston2018/wp-content/uploads/2017/11/UnpackingTheKnapsack.pdf)
+* [White Privilege - Unpacking the Invisible Knapsack](https://www.racialequitytools.org/resourcefiles/mcintosh.pdf)
 * [Who Gets to be Afraid in America?](https://www.theatlantic.com/ideas/archive/2020/05/ahmaud-arbery/611539/)
 * [Why You Should Stop Saying "All Lies Matter" Explained in 9 Different Ways](https://www.vox.com/2016/7/11/12136140/black-all-lives-matter)
 * [Privilege Checklist](https://sites.google.com/a/u.boisestate.edu/social-justice-training/about-us/our-training/privilege-checklist)
@@ -21,32 +22,38 @@ disqus: false
 
 ## Books
 
-### Systemic Racism
+### Systemic and Everyday Racism
 
-* Why I'm No Longer Talking To White People About Race - Reni Eddo-Lodge
-* Brit(ish) - On Race, Identity and Belonging - Afua Hirsch
-* An Indigenous People's History of the United States - Roxanne Dunbar-Ortiz
-* An African American and Latinx History of the United States - Paul Ortiz
-* A People's History of the United States - Howard Zinn
-* The Burning House - Jim Crow and the Making of Modern America - Anders Walker
-* The Color of Success: Asian Americans and the Origins of the Model Minority - Ellen D. Wu
-* How To Be Antiracist - Ibram X Kendi
-* How To Be Less Stupid About Race - Crystal M Fleming
-* Killing Rage - Ending Racism - Bell Hooks
-* So you want to talk about race - Ijeoma Oluo
-* Stamped from the beginning: The definitive history of racist ideas in America - Ibram X Kendi
-* The new Jim Crow - Michelle Alexander
-* They were her property - Stephanie E. Jones-Rogers
-* White Tears, Brown Scars - Ruby Hamad
-* Dark Matters - On The Surveillance of Blackness - Simone Browne
-* When They Call You a Terrorist: A Black Lives Matter Memoir - Patrisse Khan-Cullors and Asha Bandele
-* Eloquent Rage: A Black Feminist Discovers Her Superpower - Brittney Cooper
+* [Why I'm No Longer Talking To White People About Race](https://books.google.co.uk/books?id=VF9LDwAAQBAJ) - Reni Eddo-Lodge
+* [Brit(ish) - On Race, Identity and Belonging](https://books.google.co.uk/books?id=RCqtDQAAQBAJ) - Afua Hirsch
+* [How To Be Antiracist](https://books.google.co.uk/books?id=5ieCDwAAQBAJ) - Ibram X Kendi
+* [So you want to talk about race](https://books.google.co.uk/books?id=f3mRDwAAQBAJ) - Ijeoma Oluo
 
-### Technology
+### White Supremacy and Colonialism
 
-* Algorithms of Oppression: How Search Engines Reinforce Racism - Safiya Umoja Noble
-* Technically Wrong
-* Race After Technology
+* [Stamped from the beginning: The definitive history of racist ideas in America](https://books.google.co.uk/books?id=Rl9CDgAAQBAJ) - Ibram X Kendi
+* [An Indigenous People's History of the United States](https://books.google.co.uk/books?id=ZkEoAwAAQBAJ) - Roxanne Dunbar-Ortiz
+* [An African American and Latinx History of the United States](https://books.google.co.uk/books?id=MQtFDwAAQBAJ) - Paul Ortiz
+* [How To Be Less Stupid About Race](https://books.google.co.uk/books?id=KE1EDwAAQBAJ) - Crystal M Fleming
+* [They were her property](https://books.google.co.uk/books?id=i_OFDwAAQBAJ) - Stephanie E. Jones-Rogers
+* [The new Jim Crow - Mass Incarceration in the Age of Colourblindness](https://books.google.co.uk/books?id=reDzBZ3pXqsC) - Michelle Alexander
+
+### Race and Feminism
+
+* [Killing Rage - Ending Racism](https://books.google.co.uk/books?id=3JlNFYKLheUC&dq) - Bell Hooks
+* [White Tears, Brown Scars](https://books.google.co.uk/books?id=ydW2ywEACAAJ&dq) - Ruby Hamad
+* [Eloquent Rage: A Black Feminist Discovers Her Superpower](https://books.google.co.uk/books?id=XNcuDwAAQBAJ) - Brittney Cooper
+
+### Memoir
+
+* [When They Call You a Terrorist: A Black Lives Matter Memoir](https://books.google.co.uk/books?id=6l4mDwAAQBAJ) - Patrisse Khan-Cullors and Asha Bandele
+
+### Biased and Toxic Technology
+
+* [Algorithms of Oppression: How Search Engines Reinforce Racism](https://books.google.co.uk/books?id=AzlDDwAAQBAJ) - Safiya Umoja Noble
+* [Dark Matters - On The Surveillance of Blackness](https://books.google.co.uk/books?id=snmJCgAAQBAJ) - Simone Browne
+* [Race After Technology - Abolitionist Tools for the New Jim Code](https://books.google.co.uk/books?id=G6-hDwAAQBAJ) - Ruha Benjamin
+* [Technically Wrong - Sexist Apps, Biased Algorithms, and Other Threats of Toxic Tech](https://books.google.co.uk/books?id=chZSDgAAQBAJ) - Sara Wachter-Boettcher
 
 ### Children's Literature
 
