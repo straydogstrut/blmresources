@@ -25,3 +25,4 @@ Created with [Hugo](https://gohugo.io/) using the [Ezhil theme](https://themes.g
 
 To run locally: `hugo server` then open http://localhost:1313/
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/56f53c84-c57d-419a-b327-0c9aa2a6cd71/deploy-status)](https://app.netlify.com/sites/heuristic-benz-253814/deploys)
