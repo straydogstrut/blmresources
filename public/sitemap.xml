@@ -3,11 +3,42 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://example.org/categories/</loc>
+    <loc>http://example.org/</loc>
+    <lastmod>2020-06-04T20:43:38+01:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/</loc>
+    <loc>http://example.org/activism/</loc>
+  </url>
+  
+  <url>
+    <loc>http://example.org/education/</loc>
+  </url>
+  
+  <url>
+    <loc>http://example.org/support/</loc>
+  </url>
+  
+  <url>
+    <loc>http://example.org/access/</loc>
+  </url>
+  
+  <url>
+    <loc>http://example.org/promote/</loc>
+  </url>
+  
+  <url>
+    <loc>http://example.org/posts/first-post/</loc>
+    <lastmod>2020-06-04T20:43:38+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/posts/</loc>
+    <lastmod>2020-06-04T20:43:38+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/categories/</loc>
   </url>
   
   <url>

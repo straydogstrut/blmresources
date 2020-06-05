@@ -1,14 +1,70 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>My New Hugo Site</title>
+    <title>Home on #BlackLivesMatter Resources</title>
     <link>http://example.org/</link>
-    <description>Recent content on My New Hugo Site</description>
+    <description>Recent content in Home on #BlackLivesMatter Resources</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <copyright>© Copyright notice</copyright>
+    <lastBuildDate>Thu, 04 Jun 2020 20:43:38 +0100</lastBuildDate>
     
 	<atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Activism</title>
+      <link>http://example.org/activism/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/activism/</guid>
+      <description>Petitions  Justice for George Floyd - Change.org Justice for Big Floyd Justice for Breonna  Fundraising  Official George Floyd Memorial Fund BlackLivesMatter donations Minnesota Freedom Fund Black Visions Collective donations American Civil Liberties Union (ACLU) donations Reclaim The Block  Organisations  BlackLivesMatter NAACP NAACP Legal Defense Fund Black Visions Collective American Civil Liberties Union (ACLU) Reclaim The Block Stephen Lawrence Charitable Trust B.</description>
+    </item>
+    
+    <item>
+      <title>Education</title>
+      <link>http://example.org/education/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/education/</guid>
+      <description>Articles  What is Systemic Racism and Institutional Racism America&amp;rsquo;s Racial Contract is Killing Us Save the Tears White Guyde to the Galaxy White Privilege - Unpacking the Invisible Knapsack Who Gets to be Afraid in America?</description>
+    </item>
+    
+    <item>
+      <title>Support</title>
+      <link>http://example.org/support/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/support/</guid>
+      <description>Crisis Hotlines USA  National Suicide Prevention Lifeline Lifeline Crisis Chat Veterans Crisis Line  UK  Samaritans Campaign Against Living Miserably (CALM) Papyrus Hopeline UK Befrienders The Trevor Project  Mental Health Services and Charities USA  Therapy For Black Girls National Queer and Trans Therapists of Color Network TalkSpace Open Path Psychotherapy Collective The Loveland Foundation Therapy Fund  UK  Black African Asian Therapy Network Black Thrive Black Minds Matter UK Kindred Minds Peckham Befrienders Group Local Minds Maytree  Self Care  Grief is a Direct Impact of Racism - Eight Ways to Support Yourself The Four Bodies - A Holistic Toolkit for Coping with Racial Trauma Fix The Glitch  </description>
+    </item>
+    
+    <item>
+      <title>Access</title>
+      <link>http://example.org/access/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/access/</guid>
+      <description>Inclusive Action In-person protests are not accessible to everyone. For a variety of reasons someone may not be able to attend safely.</description>
+    </item>
+    
+    <item>
+      <title>Promote</title>
+      <link>http://example.org/promote/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/promote/</guid>
+      <description>The following links are provided in good faith using information that individuals have provided publicly online. The aim is one of support and collaboration, however I fully appreciate there are potential safety concerns.</description>
+    </item>
+    
+    <item>
+      <title>First Post</title>
+      <link>http://example.org/posts/first-post/</link>
+      <pubDate>Thu, 04 Jun 2020 20:43:38 +0100</pubDate>
+      
+      <guid>http://example.org/posts/first-post/</guid>
+      <description>This is a post</description>
+    </item>
     
   </channel>
 </rss>
