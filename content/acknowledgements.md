@@ -1,6 +1,7 @@
 ---
 title: Acknowledgements
 menu: main
+weight: 5
 disqus: false
 ---
 The intention behind this resource is to educate and inform on issues of systemic racism, white supremacy and racial inequality. While our social media feeds are ever-changing, these structures and the people who suffer as a result, remain.

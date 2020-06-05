@@ -57,47 +57,8 @@ summaryLength = 20
     customJS = ["js/abc.js", "js/xyz.js", "https://code.jquery.com/jquery-3.4.1.js"]
 
 # Main menu which appears below site header.
-[[menu.main]]
-identifier = "activism"
-name = "Activism"
-url = "/"
-weight = 1
 
-# [[menu.main]]
-# identifier = "activism"
-# name = "Activism"
-# url = "/activism"
-# weight = 2
 
-[[menu.main]]
-identifier = "access"
-name = "Access"
-url = "/access"
-weight = 3
-
-[[menu.main]]
-identifier = "education"
-name = "Education"
-url = "/education"
-weight = 4
-
-[[menu.main]]
-identifier = "information"
-name = "Information"
-url = "/information"
-weight = 5
-
-[[menu.main]]
-identifier = "support"
-name = "Support"
-url = "/support"
-weight = 6
-
-# [[menu.main]]
-# identifier = "acknowledgements"
-# name = "Acknowledgements"
-# url = "/acknowledgements"
-# weight = 7
 
 # Social media links which shows up on site header.
 # Uses feather icons for icons. You can [search icon names from here](https://feathericons.com/).

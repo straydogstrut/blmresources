@@ -1,6 +1,8 @@
 ---
 title: "Support"
 description: How to look after yourself and others
+menu: main
+weight: 3
 disqus: false
 ---
 

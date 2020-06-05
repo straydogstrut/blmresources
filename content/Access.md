@@ -1,5 +1,7 @@
 ---
 title: "Access"
+menu: main
+weight: 4
 disqus: false
 ---
 

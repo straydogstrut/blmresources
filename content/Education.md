@@ -1,6 +1,8 @@
 ---
 title: "Education"
 description: Resources to unlearn and challenge the status quo
+menu: main
+weight: 2
 disqus: false
 ---
 
