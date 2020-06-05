@@ -11,7 +11,7 @@ disqus: false
 ### USA
 
 * [National Suicide Prevention Lifeline](http://www.suicidepreventionlifeline.org/)
-* [Lifeline Crisis Chat](http://www.suicidepreventionlifeline.org/gethelp/lifelinechat.aspx)
+* [Lifeline Crisis Chat](https://suicidepreventionlifeline.org/chat/)
 * [Veterans Crisis Line](https://www.veteranscrisisline.net/)
 
 ### UK
@@ -35,3 +35,6 @@ disqus: false
 * [Peckham Befrienders Group](https://www.together-uk.org/southwark-wellbeing-hub/the-directory/9188/peckham-befrienders-group/)
 * [Local Minds](https://www.mind.org.uk/about-us/local-minds/)
 
+## Self Care
+
+* [Grief is a Direct Impact of Racism - Eight Ways to Support Yourself](https://theconversation.com/grief-is-a-direct-impact-of-racism-eight-ways-to-support-yourself-91750)

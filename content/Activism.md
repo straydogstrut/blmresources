@@ -14,25 +14,39 @@ disqus: false
 
 ## Fundraising
 
-* [BlackLivesMatter](https://secure.actblue.com/donate/ms_blm_homepage_2019)
-* [Minnesota Freedom Fund](https://minnesotafreedomfund.org/donate)
 * [Official George Floyd Memorial Fund](https://www.gofundme.com/f/georgefloyd)
+* [BlackLivesMatter donations](https://secure.actblue.com/donate/ms_blm_homepage_2019)
+* [Minnesota Freedom Fund](https://minnesotafreedomfund.org/donate)
+* [Black Visions Collective donations](https://secure.everyaction.com/4omQDAR0oUiUagTu0EG-Ig2)
+* [American Civil Liberties Union (ACLU) donations](https://action.aclu.org/give/now)
+* [Reclaim The Block](https://secure.everyaction.com/zae4prEeKESHBy0MKXTIcQ2)
 
 ## Organisations
 
 * [BlackLivesMatter](https://blacklivesmatter.com/)
 * [NAACP](https://www.naacp.org/)
+* [NAACP Legal Defense Fund](https://www.naacpldf.org/)
+* [Black Visions Collective](https://www.blackvisionsmn.org/)
+* [American Civil Liberties Union (ACLU)](https://www.aclu.org/)
+* [Reclaim The Block](https://www.reclaimtheblock.org/)
+* [Stephen Lawrence Charitable Trust](https://www.stephenlawrence.org.uk/)
+* [B.R.A.V.E. Foundation](https://bebravemn.org/about-us/)
+* [Campaign Zero](https://www.joincampaignzero.org/)
+* [Migizi](https://www.givemn.org/organization/Migizi-Communications)
+* [Liberty](https://www.libertyhumanrights.org.uk/)
 
-## Events
 
 ## Hashtags
 
 * #BlackLivesMatter
+*
 
 ## Practical Information
 
-### First Afraid
+* [Gov.uk (UK) - Protests and Marches - Letting the Police Know](https://www.gov.uk/protests-and-marches-letting-the-police-know)
+* [Liberty (UK) - How to Organise a Protest](https://www.libertyhumanrights.org.uk/advice_information/how-to-organise-a-protest/)
+* [YStop (UK) - Stop and Search advice](https://y-stop.org/sites/default/files/resources/Search%20Card.pdf)
+* [The Children's Society (UK) - How to Protest](https://www.childrenssociety.org.uk/sites/default/files/how-to-protest.pdf)
 
-### Legal Advice
 
 
