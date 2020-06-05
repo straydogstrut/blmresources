@@ -60,9 +60,20 @@ disqus: false
 * [Top 154 Recommended African-American Children's Books](https://aalbc.com/books/children.php)
 * [31 Children's Books to Support Conversations on Race, Racism and Resistance](https://www.embracerace.org/resources/26-childrens-books-to-support-conversations-on-race-racism-resistance)
 
+### Courses and Workshops
+
+* [The Great Unlearn - Self Paced Syllabus](https://www.patreon.com/m/thegreatunlearn) - Rachel Cargle
+* [Spiritual Activism](https://www.rachelricketts.com/online-courses) - Rachel Ricketts
+* [Anti-Racism Crash Course](https://www.moniquemelton.com/shop-shine-classes/s9kupb9htnfglryrnfvfpqhpa1ij0v) - Monique Melton
+* [Conversations with Children About Race - What, When and How to Talk to Kids About Race](https://www.moniquemelton.com/shop-shine-classes/conversations-with-children-about-race-what-when-and-how-to-talk-to-kids-about-race) - Monique Melton
+* [Undoing Racism Workshops](http://www.pisab.org/events/) - PISAB
+* [Unmasking Whiteness](https://www.awarela.org/unmasking-whiteness-institute) - AwareLA
+
 ### Other Resources
 
 * [Implicit Association Test](https://implicit.harvard.edu/implicit/takeatest.html)
 * [Contemporary White Anti-Racism](https://crossculturalsolidarity.com/contemporary-white-antiracism/)
+* [Anti-Racism Resources](https://www.rachelricketts.com/antiracism-resources) - Rachel Ricketts
+* [White Anti-Racist Culture Building Toolkit](https://www.awarela.org/toolkit) - AwareLA
 * [How to Talk to Kids About Race and Racism - Parental Toolkit](https://www.parenttoolkit.com/social-and-emotional-development/advice/social-awareness/how-to-talk-to-kids-about-race-and-racism)
 * [Show Racism The Red Card - Education Packs](https://www.theredcard.org/resources-and-activities)
