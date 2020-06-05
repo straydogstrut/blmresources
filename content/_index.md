@@ -12,7 +12,7 @@ To that end I will maintain this site as a reminder that our work is not done. A
 * For ways to take immediate action now, see [Activism](/activism)
 * To identify and unlearn racial prejudices, see [Education](/education)
 * For ways to look after ourselves and promote the work of others, see [Support](/support)
-* To make our accessible to as many people as possible, see [Access](/access)
+* To make our information accessible to as many people as possible, see [Access](/access)
 
 Collating this much information in such a short space of time would not have been possible without the resources sign-posted by others. My heartfelt thanks to everyone who is offering support and sharing information at this difficult time.
 
