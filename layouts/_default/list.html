@@ -35,7 +35,15 @@
 			<h2>{{ .Title }}</h2>
 			<ul>
 				{{ range .Data.Pages }}
-				<li><a href="{{ .Params.link }}">{{.Title}}</a></li>
+				<li>
+					<a href="{{ .Params.link }}">{{.Title}}</a>
+					{{ with .Params.captions }}
+						[ <a href="{{ . }}">captions</a> ]
+					{{ end }}
+					{{ with .Params.transcript }}
+						[ <a href="{{ . }}">transcript</a> ]
+					{{ end }}
+				</li>
 				{{ end }}
 			</ul>
 		{{ end }}
