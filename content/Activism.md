@@ -36,10 +36,14 @@ disqus: false
 * [Liberty](https://www.libertyhumanrights.org.uk/)
 
 
-### Hashtags
+### Hashtags to Use/Follow
 
 * #BlackLivesMatter
-*
+* #AmplifyMelanatedVoices
+
+### Hashtags to Avoid
+
+* #AllLivesMatter (read [why](https://www.vox.com/2016/7/11/12136140/black-all-lives-matter))
 
 ### Practical Information
 
