@@ -13,7 +13,8 @@ To that end I will maintain this site as a reminder that our work is not done. A
 
 * For ways to take immediate action now, see [Activism](/activism)
 * To identify and unlearn racial prejudices, see [Education](/education)
-* For ways to look after ourselves and promote the work of others, see [Support](/support)
+* For ways to look after ourselves, see [Support](/support)
+* For suggested POC/Black businesses and creators to support, see [Promote](/promote)
 * To make our information accessible to as many people as possible, see [Access](/access)
 
 ## Contributions Welcome
