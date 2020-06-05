@@ -1,5 +1,7 @@
 ---
-title: Black Lives Matter
+title: Home
+menu: main
+weight: 1
 ---
 ## Silence is Violence
 

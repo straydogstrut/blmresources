@@ -2,7 +2,7 @@
 title: "Activism"
 description: "Things you can do to help"
 menu: main
-weight: 1
+weight: 2
 disqus: false
 ---
 
