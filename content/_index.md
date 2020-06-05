@@ -28,3 +28,4 @@ Other recommended resource sites:
 
 * [Anti-Racism Resources for White People](https://docs.google.com/document/d/1BRlF2_zhNe86SGgHa6-VlBO-QgirITwCTugSfKie5Fs/preview?pru=AAABcqXDFk8*k2XtXlIJSVskFy2Dhz1RCQ) - by Sarah Sophie Flicker and Alyssa Klein
 * [Black Lives Matters Carrd](https://blacklivesmatters.carrd.co/#) - by @dehyedration
+* [Anti-Racist Resource Guide](https://docs.google.com/document/d/1a-lzdtxOlWuzYNGqwlYwxMWADtZ6vJGCpKhtJHHrS54/preview?pru=AAABcqjWgj4*mB-DVJDfh3pGwks6f7u04A) - by Victoria Alexander
