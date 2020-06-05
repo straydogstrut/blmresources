@@ -7,10 +7,14 @@
 		{{ partial "head.html" . }}
 
 		{{ if .Site.Params.homepage_redirect }}
-			{{ with .GetPage "/activism" }}
+			{{ with .GetPage .Site.Params.homepage_redirect }}
 				{{ .Content }}
 				<span class="meta">Page last updated {{ .Page.Lastmod.Format "Jan 2, 2006" }}</span>
 			{{ end }}
+		{{ else }}
+
+		{{ .Content }}
+
 		{{ end }}
 
 	{{ partial "footer.html" . }}

@@ -24,7 +24,8 @@ summaryLength = 20
 [params]
     enableGitInfo = true
 
-    homepage_redirect = true
+    #homepage_redirect = "/activism"
+
     # Blog subtitle which appears below blog title. Supports markdown.
     subtitle = "A curated collection of resources to educate and inform - [help welcome](https://github.com/straydogstrut/blmresources)"
 
