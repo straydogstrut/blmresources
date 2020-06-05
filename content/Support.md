@@ -6,15 +6,15 @@ weight: 4
 disqus: false
 ---
 
-## Crisis Hotlines
+### Crisis Hotlines
 
-### USA
+#### USA
 
 * [National Suicide Prevention Lifeline](http://www.suicidepreventionlifeline.org/)
 * [Lifeline Crisis Chat](https://suicidepreventionlifeline.org/chat/)
 * [Veterans Crisis Line](https://www.veteranscrisisline.net/)
 
-### UK
+#### UK
 
 * [Samaritans](https://www.samaritans.org/)
 * [Campaign Against Living Miserably (CALM)](https://www.thecalmzone.net/)
@@ -22,12 +22,12 @@ disqus: false
 * [Befrienders](http://www.befrienders.org/)
 * [The Trevor Project](http://www.thetrevorproject.org/)
 
-## Mental Health Services
+### Mental Health Services
 
-### USA
+#### USA
 
 
-### UK
+#### UK
 
 * [Black African Asian Therapy Network](https://www.baatn.org.uk/free-services/)
 * [Black Thrive](https://www.blackthrive.org.uk/)
@@ -35,6 +35,6 @@ disqus: false
 * [Peckham Befrienders Group](https://www.together-uk.org/southwark-wellbeing-hub/the-directory/9188/peckham-befrienders-group/)
 * [Local Minds](https://www.mind.org.uk/about-us/local-minds/)
 
-## Self Care
+### Self Care
 
 * [Grief is a Direct Impact of Racism - Eight Ways to Support Yourself](https://theconversation.com/grief-is-a-direct-impact-of-racism-eight-ways-to-support-yourself-91750)

@@ -6,13 +6,13 @@ weight: 2
 disqus: false
 ---
 
-## Petitions
+### Petitions
 
 * [Justice for George Floyd - Change.org](https://www.change.org/p/mayor-jacob-frey-justice-for-george-floyd)
 * [Justice for Big Floyd](https://www.justiceforbigfloyd.com/)
 * [Justice for Breonna](https://action.justiceforbreonna.org/sign/BreonnaWasEssential/)
 
-## Fundraising
+### Fundraising
 
 * [Official George Floyd Memorial Fund](https://www.gofundme.com/f/georgefloyd)
 * [BlackLivesMatter donations](https://secure.actblue.com/donate/ms_blm_homepage_2019)
@@ -21,7 +21,7 @@ disqus: false
 * [American Civil Liberties Union (ACLU) donations](https://action.aclu.org/give/now)
 * [Reclaim The Block](https://secure.everyaction.com/zae4prEeKESHBy0MKXTIcQ2)
 
-## Organisations
+### Organisations
 
 * [BlackLivesMatter](https://blacklivesmatter.com/)
 * [NAACP](https://www.naacp.org/)
@@ -36,12 +36,12 @@ disqus: false
 * [Liberty](https://www.libertyhumanrights.org.uk/)
 
 
-## Hashtags
+### Hashtags
 
 * #BlackLivesMatter
 *
 
-## Practical Information
+### Practical Information
 
 * [Gov.uk (UK) - Protests and Marches - Letting the Police Know](https://www.gov.uk/protests-and-marches-letting-the-police-know)
 * [Liberty (UK) - How to Organise a Protest](https://www.libertyhumanrights.org.uk/advice_information/how-to-organise-a-protest/)

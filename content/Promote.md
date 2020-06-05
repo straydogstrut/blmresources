@@ -7,7 +7,7 @@ disqus: false
 ---
 The following links are provided in good faith using information that individuals have provided publicly online. The aim is one of support and collaboration, however I fully appreciate there are potential safety concerns. Links will be removed upon request without question.
 
-## Bookstores
+### Bookstores
 
 * [African American Literature Book Club ](https://aalbc.com/bookstores/list.php)
 
