@@ -23,7 +23,7 @@ Some people use text-to-speech software such as a screen reader to access websit
 * To add alternative text on Instagram
 * To add alternative text on Facebook
 
-Note that it is currently not possible to add alternative text to Instagram Stories. Consider using the text feature to add Captions.
+Note that it is currently not possible to add alternative text to Instagram Stories.
 
 #### Avoid images of text where possible
 
@@ -40,6 +40,8 @@ Video can be a vital tool for education and accountability. However people who c
 *Captions* can be beneficial for people who cannot perceive the audio of the video, such as those who are deaf or Hard of Hearing or whose first language is not the same as the video audio. They can also be beneficial for people who are watching the video in a noisy environment or without sound.
 
 When providing captions, remember to include any audio important for context and understanding such as music and sound effects as well as the dialogue.
+
+Note that it is currently not possible to add captions to to Instagram Stories. Consider using the text feature to create Captions.
 
 *Transcripts* can be beneficial for people who cannot perceive the visuals of the video, such as those who are blind or have a temporary eye condition. They can also be beneficial for people who are viewing a video in a low visibility environment such as in direct sunlight. The text of a transcript is usually available to assistive technologies so can be available to text-to-speech software such as screen readers and read aloud software.
 
